@@ -11,11 +11,9 @@ import Rumus from './Rumus'
 import { View } from 'react-native';
 
 class Kalkulator extends Component {
-    render(){
-        return(
-            
+    render() {
+        return (
                 <Rumus />
-            
         );
     }
 }

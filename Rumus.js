@@ -65,7 +65,7 @@ class Rumus extends Component {
             //Container Utama
             <View style={styles.container}>
                 <View style={styles.empty} />
-                <Text style={styles.welcome}> Please, Input some Numbers...</Text>
+                <Text style={styles.welcome}> Please, Input Number</Text>
                 <View style={styles.hr} />
                 <TextInput
                     style={styles.textInputStyle}
